@@ -1,3 +1,7 @@
 Get the user data...
+<<<<<<< HEAD
 
 Adding the data from the user
+=======
+process the data
+>>>>>>> fd6108bea68d1c7e0b4c8a98b5706342cd2b6b89
